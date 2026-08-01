@@ -1,4 +1,4 @@
-# Yunus Emre ASLAN's Portfolio
+# Yunus Emre A.'s Portfolio
 
 **Principal Engineer, Product Management | AI/ML & Technology Architect Professional**<br>
 **Ph.D. in Resilience Strategies**
