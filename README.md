@@ -17,6 +17,7 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 * 👯 I'm looking to collaborate on Digital Twins, Edge AI, and Applied Machine Learning research
 * 🤔 I'm looking for discussions on Gen AI, RAG, and Agentic AI at scale
 * 💬 Ask me about AI/ML systems, reliability, and architectures
+* 🎤 Enjoying Toastmasters Istanbul on the side — Speak. Lead. Grow
 * 📫 How to reach me: [https://www.linkedin.com/in/emreaslan1/]
 
 ## Languages and Tools:
