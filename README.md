@@ -1,6 +1,6 @@
 # Yunus Emre A.'s Portfolio
 
-**Principal Engineer, Product Management | AI/ML/Data & Technology Architect Professional**<br>
+**Principal Engineer, Product Management | AI/ML/Data Science & Technology Architect Professional**<br>
 **Ph.D. in Resilience Strategies**
 
 Here, you'll find my journey as a scientist, engineer, researcher, and technical leader!
