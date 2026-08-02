@@ -13,7 +13,7 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 - For the last few years, I've been leading AI/ML, Digital Twins, and Gen AI initiatives, bridging technical depth with product strategy
 
 * 🔭 I'm currently working on AI, Digital Twin, and Agentic AI initiatives
-* 🌱 I hold a Ph.D. (Dr.-Ing.) from Université Grenoble Alpes, in collaboration with STMicroelectronics & SPINTEC (CNRS–CEA)
+* 🌱 Ph.D. (Dr.-Ing.) from Université Grenoble Alpes, in collaboration with STMicroelectronics & SPINTEC (CNRS–CEA)
 * 👯 I'm looking to collaborate on Digital Twins, Edge AI, and Applied Machine Learning research
 * 🤔 I'm looking for discussions on Gen AI, RAG, and Agentic AI at scale
 * 💬 Ask me about AI/ML systems, reliability, and architectures
@@ -45,11 +45,11 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
    * Technologies Used: Machine Learning, Data Analysis
 * Predictive AI - Forecasting Reliability of ePhase Change Memories
    * Technologies Used: Predictive AI, Machine Learning, Reliability Modeling, Semiconductor/Memory Data Analysis
-* SRAM Leakage Power Optimisation via ML/Predictive AI
-   * Technologies Used: Machine Learning, Predictive AI, Power Optimisation, Design Analysis
-* End-to-End Characterization and Predictive Modeling of Device Defects at Scale
+* End-to-End Characterisation and Predictive Modeling of Device Defects at Scale
    * Technologies Used: Statistical Industrial Data Analytics, Mathematical Modeling, Reliability Engineering
 * ML-Driven Cell-Aware Defect Diagnosis for SRAM Reliability
    * Technologies Used: Machine Learning, Cell-Aware Diagnosis, SRAM Reliability Analysis, Fault Localisation
+* SRAM Leakage Power Optimisation via ML/Predictive AI
+   * Technologies Used: Machine Learning, Predictive AI, Power Optimisation, Design Analysis
 * Edge-AI Inference Optimisation on STM32N6
    * Technologies Used: Systems Performance Analysis, Embedded AI Inference, STM32N6, Adaptive Traffic Profiles, Benchmarking & Profiling
