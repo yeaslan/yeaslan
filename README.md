@@ -46,7 +46,7 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 * Machine-Learning based Defectivity Screening in Complex Environments
    * Technologies Used: Machine Learning, Data Analysis
 * Predictive AI - Forecasting Reliability of ePhase Change Memories
-   * Technologies Used: Predictive AI, Machine Learning, Reliability Modeling, Semiconductor/Memory Data Analysis
+   * Technologies Used: Predictive AI, ML, Reliability Modeling, Anomaly Detection, Semiconductor/Memory Data Analysis
 * End-to-End Characterisation and Predictive Modeling of Device Defects at Scale
    * Technologies Used: Statistical Industrial Data Analytics, Mathematical Modeling, Reliability Engineering
 * ML-Driven Cell-Aware Defect Diagnosis for SRAM Reliability
