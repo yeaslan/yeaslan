@@ -51,3 +51,5 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
    * Technologies Used: Statistical Industrial Data Analytics, Mathematical Modeling, Reliability Engineering
 * ML-Driven Cell-Aware Defect Diagnosis for SRAM Reliability
    * Technologies Used: Machine Learning, Cell-Aware Diagnosis, SRAM Reliability Analysis, Fault Localisation
+* Edge-AI Inference Optimisation on STM32N6
+   * Technologies Used: Systems Performance Analysis, Embedded AI Inference, STM32N6, Adaptive Traffic Profiles, Benchmarking & Profiling
