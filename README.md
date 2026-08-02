@@ -41,6 +41,8 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 ## R&D Projects
 * PaaS | Real-Time AI-Powered Digital Twins
    * Technologies Used: Predictive AI, Generative AI, Agentic AI, Machine Learning, Edge Computing, AI-Compute Infrastructure, End-to-End Data & SW Stack Architecture
+* Digital Twins | Real-time Resource Optimisation and Performance Monitoring using AI/ML 
+   * Technologies Used: Machine Learning, Real-Time Data Processing, Optimization Algorithms, AI-Driven Decision Making
 * Machine-Learning based Defectivity Screening in Complex Environments
    * Technologies Used: Machine Learning, Data Analysis
 * Predictive AI - Forecasting Reliability of ePhase Change Memories
@@ -53,3 +55,22 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
    * Technologies Used: Machine Learning, Predictive AI, Power Optimisation, Design Analysis
 * Edge-AI Inference Optimisation on STM32N6
    * Technologies Used: Systems Performance Analysis, Embedded AI Inference, STM32N6, Adaptive Traffic Profiles, Benchmarking & Profiling
+
+## Publications
+* Minimum SRAM Retention Voltage: Insight about optimizing Power Efficiency across Temperature Profile, Process Variation and Aging
+   * IOLTS, Jul 2023
+
+## Skills
+* Project Management
+* Leadership and Team Building
+* Agile Methodologies (Scrum, Sprints)
+* Digital Twins
+* AI & Data Science
+* Data & Software Stack Architecture
+* Big Data
+* Statistical Industrial Data Analytics
+* Real-Time Systems Optimisation
+* Edge Computing / Edge AI
+* Simulation
+* Mathematical Modeling
+* Reliability Engineering
