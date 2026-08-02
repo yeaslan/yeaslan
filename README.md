@@ -45,7 +45,7 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
    * Technologies Used: Machine Learning, Data Analysis
 * Predictive AI - Forecasting Reliability of ePhase Change Memories
    * Technologies Used: Predictive AI, Machine Learning, Reliability Modeling, Semiconductor/Memory Data Analysis
-* SRAM Leakage Power Optimisation - Extending with ML/Predictive AI
+* SRAM Leakage Power Optimisation via ML/Predictive AI
    * Technologies Used: Machine Learning, Predictive AI, Power Optimisation, Design Analysis
 * End-to-End Characterization and Predictive Modeling of Device Defects at Scale
    * Technologies Used: Statistical Industrial Data Analytics, Mathematical Modeling, Reliability Engineering
