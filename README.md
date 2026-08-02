@@ -37,3 +37,13 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+## R&D Projects
+* PaaS | Real-Time AI-Powered Digital Twins
+   * Technologies Used: Predictive AI, Generative AI, Agentic AI, Machine Learning, Edge Computing, AI-Compute Infrastructure, End-to-End Data & SW Stack Architecture
+* Machine-Learning based Defectivity Screening in Complex Environments
+   * Technologies Used: Machine Learning, Data Analysis
+* Predictive AI - Forecasting Reliability of ePhase Change Memories
+   * Technologies Used: Predictive AI, Machine Learning, Reliability Modeling, Semiconductor/Memory Data Analysis
+* SRAM Leakage Power Optimisation - Extending with ML/Predictive AI
+   * Technologies Used: Machine Learning, Predictive AI, Power Optimization, Design Analysis
