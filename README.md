@@ -9,7 +9,7 @@ Here, you'll find my journey as a scientist, engineer, researcher, and technical
 
 Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in Istanbul
 
-- 10+ years of hands-on technical experience across AI, Technology, Information and Internet, Aerospace, and Semiconductors 
+- ~10 years of hands-on technical experience across AI, Technology, Information and Internet, Aerospace, and Semiconductors 
 - For the last few years, I've been leading AI/ML, Digital Twins, and Gen AI initiatives, bridging technical depth with product strategy
 
 * 🔭 I'm currently working on AI, Digital Twin, and Agentic AI initiatives
