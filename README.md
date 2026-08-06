@@ -64,7 +64,7 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 ## Skills
 * Project Management
 * Leadership and Team Building
-* Agile Methodologies (Scrum, Sprints)
+* Agile & Waterfall Methodologies (Scrum, Sprints)
 * Digital Twins
 * AI & Data Science
 * Data & Software Stack Architecture
