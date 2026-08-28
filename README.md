@@ -14,7 +14,7 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 
 * 🔭 I'm currently working on AI, Digital Twin, and Agentic AI initiatives
 * 🌱 Ph.D. (Dr.-Ing.) from Université Grenoble Alpes, in collaboration with STMicroelectronics & SPINTEC (CNRS–CEA)
-* 🌱 MSc, Paris Saclay & CentraleSupélec, 🏆 Ranked 13th in the world 🌍 , and the 🥇 university in France and Continental Europe.
+* 🌱 MSc, Paris Saclay & CentraleSupélec, 🏆 Ranked 13th in the world 🌍 , and the 🥇 university in France and Europe.
 * 👯 I'm looking to collaborate on Digital Twins, Edge AI, and Applied Machine Learning research
 * 🤔 I'm looking for discussions on Gen AI, RAG, and Agentic AI at scale
 * 💬 Ask me about AI/ML systems, reliability, and architectures
