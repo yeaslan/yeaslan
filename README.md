@@ -14,6 +14,7 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 
 * 🔭 I'm currently working on AI, Digital Twin, and Agentic AI initiatives
 * 🌱 Ph.D. (Dr.-Ing.) from Université Grenoble Alpes, in collaboration with STMicroelectronics & SPINTEC (CNRS–CEA)
+* 🌱 MSc, Paris Saclay & CentraleSupélec, 🏆 Ranked 13th in the world 🌍 , and the 🥇 university in France and Continental Europe.
 * 👯 I'm looking to collaborate on Digital Twins, Edge AI, and Applied Machine Learning research
 * 🤔 I'm looking for discussions on Gen AI, RAG, and Agentic AI at scale
 * 💬 Ask me about AI/ML systems, reliability, and architectures
@@ -40,7 +41,7 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## R&D Projects
-* PaaS | Real-Time AI-Powered Digital Twins
+* PaaS | Real-Time AI-Powered Model-Driven Digital Twins
    * Technologies Used: Predictive AI, Generative AI, Agentic AI, Machine Learning, Edge Computing, AI-Compute Infrastructure, End-to-End Data & SW Stack Architecture
 * Digital Twins | Real-time Resource Optimisation and Performance Monitoring using AI/ML 
    * Technologies Used: Machine Learning, Real-Time Data Processing, Optimization Algorithms, AI-Driven Decision Making
