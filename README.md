@@ -54,12 +54,12 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 * ML-Driven Cell-Aware Defect Diagnosis for SRAM Reliability
    * Technologies Used: Machine Learning, Cell-Aware Diagnosis, SRAM Reliability Analysis, Fault Localisation
 * SRAM Leakage Power Optimisation via ML/Predictive AI
-   * Technologies Used: Machine Learning, Predictive AI, Power Optimisation, Design Analysis
+   * Technologies Used: Machine Learning, Decisioning, Predictive AI, Power Optimisation, Design Analysis
 * Edge-AI Inference Optimisation on STM32N6
    * Technologies Used: Systems Performance Analysis, Embedded AI Inference, STM32N6, Adaptive Traffic Profiles, Benchmarking & Profiling
 
 ## Publications
-* Minimum SRAM Retention Voltage: Insight about optimizing Power Efficiency across Temperature Profile, Process Variation and Aging
+* Minimum SRAM Retention Voltage via ML: Insight about optimizing Power Efficiency across Temperature Profile, Process Variation and Aging
    * IOLTS, Jul 2023
 
 ## Skills
