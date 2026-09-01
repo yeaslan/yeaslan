@@ -45,7 +45,7 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
    * Technologies Used: Predictive AI, Generative AI, Agentic AI, Machine Learning, Edge Computing, Autonomous Decisioning, AI-Compute Infrastructure, End-to-End Data & SW Stack Architecture
 * Digital Twins | Real-time Resource Optimisation and Performance Monitoring using AI/ML 
    * Technologies Used: Machine Learning, Real-Time Data Processing, Optimization Algorithms, AI-Driven Decision Making
-* AI/ML-Driven Time-Series Forecasting (ARIMA), Risk & Anomaly Detection, Portfolio Strategy Design, and NLP-Driven Factor Portfolio Research
+* Statistical and ML-Driven Time-Series Forecasting (ARIMA, LSTM), Risk & Anomaly Detection, Portfolio Strategy Design, and NLP-Driven Factor Portfolio Research
    * Technologies: ML, Time-Series Forecasting, ARIMA, Anomaly Detection, Risk Modeling, Portfolio Optimisation, NLP, Sentiment Analysis, Factor Investing, Quantitative Finance
 * Machine-Learning based Defectivity Screening in Complex Environments
    * Technologies Used: Machine Learning, Data Analysis
