@@ -42,7 +42,7 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 
 ## R&D Projects
 * PaaS | Real-Time AI-Powered Model-Driven Digital Twins
-   * Technologies Used: Predictive AI, Generative AI, Agentic AI, Machine Learning, Edge Computing, AI-Compute Infrastructure, End-to-End Data & SW Stack Architecture
+   * Technologies Used: Predictive AI, Generative AI, Agentic AI, Machine Learning, Edge Computing, Autonomous Decisioning, AI-Compute Infrastructure, End-to-End Data & SW Stack Architecture
 * Digital Twins | Real-time Resource Optimisation and Performance Monitoring using AI/ML 
    * Technologies Used: Machine Learning, Real-Time Data Processing, Optimization Algorithms, AI-Driven Decision Making
 * Machine-Learning based Defectivity Screening in Complex Environments
