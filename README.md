@@ -77,4 +77,5 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
 * Edge Computing / Edge AI
 * Simulation
 * Mathematical Modeling
+* Principal Component Analysis
 * Reliability Engineering
