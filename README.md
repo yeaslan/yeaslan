@@ -61,8 +61,9 @@ Principal Product Engineer — AI, Digital Twins & Systems Reliability 🚀 in I
    * Technologies Used: Systems Performance Analysis, Embedded AI Inference, STM32N6, Adaptive Traffic Profiles, Benchmarking & Profiling
 
 ## Publications
-* Minimum SRAM Retention Voltage via ML: Insight about optimizing Power Efficiency across Temperature Profile, Process Variation and Aging
-   * IOLTS, Jul 2023
+* Defect Screening for Embedded SRAM in Complex Manufacturing: Calibrated Hybrid Learning and Capacity-Aware Decisions, Nov 2026
+   * Predict-then-Optimize turns latent defect screening into a capacity-constrained decision problem: calibrated per-die defect probabilities p(y | x(t)), with t ∈ {0, t₁, …, t_k} spanning time-0 to intermediate pre-aging read points, feed a MILP/CP-SAT optimizer, cutting cost 54% versus shipping all dies (17 points versus score ranking) in synthetic tests. This projects to ~$2.7M in annual savings, though cheap blanket stress and linear baselines can still win.
+* Minimum SRAM Retention Voltage via ML: Insight about optimizing Power Efficiency across Temperature Profile, Process Variation and Aging, Jul 2023
 
 ## Skills
 * Project Management
